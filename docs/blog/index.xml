@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on </title>
+    <link>https://duckdarsh.com/blog/</link>
+    <description>Recent content in Blogs on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mdarshan2004@gmail.com (Darshan)</managingEditor>
+    <webMaster>mdarshan2004@gmail.com (Darshan)</webMaster>
+    
+    <lastBuildDate>Thu, 26 Jun 2025 15:14:21 +0530</lastBuildDate><atom:link href="https://duckdarsh.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://duckdarsh.com/blog/my-first-post/</link>
+      <pubDate>Thu, 26 Jun 2025 15:14:21 +0530</pubDate>
+      <author>mdarshan2004@gmail.com (Darshan)</author>
+      <guid>https://duckdarsh.com/blog/my-first-post/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

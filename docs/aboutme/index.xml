@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Whoami on </title>
+    <link>https://duckdarsh.com/aboutme/</link>
+    <description>Recent content in Whoami on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>mdarshan2004@gmail.com (Darshan)</managingEditor>
+    <webMaster>mdarshan2004@gmail.com (Darshan)</webMaster>
+    
+    <lastBuildDate>Thu, 26 Jun 2025 13:59:06 +0530</lastBuildDate><atom:link href="https://duckdarsh.com/aboutme/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
