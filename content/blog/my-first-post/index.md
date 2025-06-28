@@ -2,7 +2,7 @@
 date = '2025-06-26T15:14:21+05:30'
 draft = false
 title = 'My First Post'
-image = "/my-first-post.jpg"
+featured = 'featured.jpg'
 +++
 
 ![Image here](/featured.jpg)

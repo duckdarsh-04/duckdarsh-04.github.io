@@ -18,7 +18,7 @@
       <author>mdarshan2004@gmail.com (Darshan)</author>
       <guid>https://duckdarsh.com/blog/my-first-post/</guid>
       <description></description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://duckdarsh.com/blog/my-first-post/featured.jpg" />
     </item>
     
   </channel>
